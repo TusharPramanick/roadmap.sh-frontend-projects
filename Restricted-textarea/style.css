@@ -1,0 +1,79 @@
+:root {
+  --bg-color: #232221;
+  --primary-color: #dbd9d5;
+  --warning-color: #ff945a;
+  --font-stack: "Segoe UI", Tahoma, Verdana, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font-stack);
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: var(--bg-color);
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: var(--primary-color);
+  font-size: 2rem;
+}
+
+.textarea_wrapper {
+  position: relative;
+}
+
+textarea {
+  border-radius: 5px;
+  padding: 10px;
+  background-color: transparent;
+  color: var(--primary-color);
+  border: 2px solid;
+  resize: none;
+  border-color: var(--primary-color);
+}
+
+textarea:focus{
+  outline: none;
+}
+
+textarea::placeholder {
+  color: var(--primary-color);
+}
+
+textarea::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+
+}
+
+textarea::-webkit-scrollbar-thumb {
+  background: var(--warning-color);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+h5 {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  color: var(--primary-color);
+}
+
+.restriction {
+  color: var(--warning-color);
+}
+
+textarea.restriction{
+  border-color: var(--warning-color);
+}
