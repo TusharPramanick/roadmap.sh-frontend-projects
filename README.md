@@ -12,8 +12,6 @@ This repository contains front-end projects built following the [roadmap.sh](htt
       </a>
       <br />
       <strong>Single Page CV</strong>
-      <br />
-      <em>HTML/CSS project</em>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="./Tabs-component/">
@@ -21,8 +19,6 @@ This repository contains front-end projects built following the [roadmap.sh](htt
       </a>
       <br />
       <strong>Simple Tabs</strong>
-      <br />
-      <em>Interactive UI project</em>
     </td>
   </tr>
   <tr>
@@ -32,8 +28,6 @@ This repository contains front-end projects built following the [roadmap.sh](htt
       </a>
       <br />
       <strong>Restricted Textarea</strong>
-      <br />
-      <em>Form/UI project</em>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="./project-04/">
@@ -41,8 +35,6 @@ This repository contains front-end projects built following the [roadmap.sh](htt
       </a>
       <br />
       <strong>Project 04</strong>
-      <br />
-      <em>Describe this project here</em>
     </td>
   </tr>
 </table>
