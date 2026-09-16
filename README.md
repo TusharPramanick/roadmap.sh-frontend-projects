@@ -33,11 +33,11 @@ This repository contains front-end projects built following the [roadmap.sh](htt
       <strong>Restricted Textarea</strong>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="./project-04/">
-        <img src="./assets/images/project-04.png" alt="project 04" width="100%" />
+      <a href="./Accordion-component/">
+        <img src="./assets/Accordion Component.png" alt="Accordion Component" width="100%" />
       </a>
       <br />
-      <strong>Project 04</strong>
+      <strong>Accordion Component</strong>
     </td>
   </tr>
 </table>
