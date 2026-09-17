@@ -3,7 +3,9 @@
 This repository contains front-end projects built following the [roadmap.sh](https://roadmap.sh/frontend/projects) learning path.
 
 [single-page-cv](https://roadmap.sh/projects/single-page-cv), [simple-tabs](https://roadmap.sh/projects/simple-tabs),\
-[restricted-textarea](https://roadmap.sh/projects/restricted-textarea)
+[restricted-textarea](https://roadmap.sh/projects/restricted-textarea),
+[Accordion-component](https://roadmap.sh/projects/accordion)
+
 
 ## Projects List
 
