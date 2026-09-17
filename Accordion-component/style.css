@@ -27,7 +27,7 @@ body {
   height: 100vh;
 }
 
-section{
+section {
   width: 100%;
   margin: 20px;
   max-width: 600px;
@@ -51,25 +51,41 @@ section{
   justify-content: space-between;
   align-content: center;
   padding: 20px;
-  margin-bottom: 15px;
   font-weight: 500;
   color: var(--second-color);
 }
 
-.accordions:hover{
+.accordions:hover {
   color: var(--second-color);
   background-color: var(--third-color);
   transition: all 0.3s ease-in;
 }
 
 .description {
-  padding: 20px;
+  padding: 0 20px;
   border: 2px solid var(--fourth-color);
   margin-bottom: 15px;
   color: var(--third-color);
-  display: none;
+  opacity: 0;
+  max-height: 0;
+  transition:
+    opacity 0.5s ease,
+    max-height 0.3s ease,
+    padding 0.3s ease;
+  overflow: hidden;
 }
 
 .description.show {
-    display: block;
+  opacity: 1;
+  max-height: 200px;
+  padding: 20px;
+  display: block;
+}
+
+.symbol{
+  transition: transform 0.3s ease;
+}
+
+.symbol.arrow{
+  transform: rotate(90deg);
 }
