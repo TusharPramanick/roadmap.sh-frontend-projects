@@ -4,7 +4,7 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 
 [single-page-cv](https://roadmap.sh/projects/single-page-cv), [simple-tabs](https://roadmap.sh/projects/simple-tabs),\
 [restricted-textarea](https://roadmap.sh/projects/restricted-textarea),
-[Accordion-component](https://roadmap.sh/projects/accordion)
+[accordion-component](https://roadmap.sh/projects/accordion), [pricing-cards](https://roadmap.sh/projects/pricing-cards)
 
 
 ## Projects List
@@ -40,6 +40,22 @@ This repository contains front-end projects built following the [roadmap.sh](htt
       </a>
       <br />
       <strong>Accordion Component</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="./Pricing Cards/">
+        <img src="./assets/pricing-cards.png" alt="Pricing Cards" width="100%" />
+      </a>
+      <br />
+      <strong>Pricing Cards</strong>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="./">
+        <img src="./assets/" alt="Accordion Component" width="100%" />
+      </a>
+      <br />
+      <strong>#</strong>
     </td>
   </tr>
 </table>
