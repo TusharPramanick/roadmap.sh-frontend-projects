@@ -6,7 +6,6 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 [restricted-textarea](https://roadmap.sh/projects/restricted-textarea),
 [accordion-component](https://roadmap.sh/projects/accordion), [pricing-cards](https://roadmap.sh/projects/pricing-cards)
 
-
 ## Projects List
 
 <table>
@@ -18,13 +17,14 @@ This repository contains front-end projects built following the [roadmap.sh](htt
       <br />
       <strong>Single Page CV</strong>
     </td>
-    <td align="center" valign="top" width="50%">
-      <a href="./Tabs-component/">
-        <img src="./assets/Tab_component.png" alt="simple tabs" width="100%" />
+        <td align="center" valign="top" width="50%">
+      <a href="./Pricing Cards/">
+        <img src="./assets/pricing-cards.png" alt="Pricing Cards" width="100%" />
       </a>
       <br />
-      <strong>Simple Tabs</strong>
+      <strong>Pricing Cards</strong>
     </td>
+
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
@@ -42,13 +42,14 @@ This repository contains front-end projects built following the [roadmap.sh](htt
       <strong>Accordion Component</strong>
     </td>
   </tr>
+  
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="./Pricing Cards/">
-        <img src="./assets/pricing-cards.png" alt="Pricing Cards" width="100%" />
+      <a href="./Tabs-component/">
+        <img src="./assets/Tab_component.png" alt="simple tabs" width="100%" />
       </a>
       <br />
-      <strong>Pricing Cards</strong>
+      <strong>Simple Tabs</strong>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="./">
